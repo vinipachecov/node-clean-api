@@ -1,0 +1,7 @@
+{
+  "husky": {
+    "hook": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}
